@@ -13,6 +13,5 @@ This is my first web development project, created to practice frontend skills an
 
 ---
 
-## 📂 Project Structure
 
 
